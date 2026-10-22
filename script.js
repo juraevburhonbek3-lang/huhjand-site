@@ -9,8 +9,6 @@ const dishes = [
   {name:"Куриные крылышки",category:"Шашлык и мангал",price:215,weight:"140 г",description:"Крылышки с аппетитной хрустящей корочкой.",sheet:"hot",cell:6},
   {name:"Спинка баранья",category:"Шашлык и мангал",price:435,weight:"140 г",description:"Нежное мясо с мангала и румяной корочкой.",sheet:"hot",cell:8},
   {name:"Корейка баранья",category:"Шашлык и мангал",price:435,weight:"уточнить",description:"Баранья корейка, приготовленная на углях.",sheet:"hot",cell:8},
-  {name:"Салат с говяжьим языком",category:"Салаты",price:395,weight:"250 г",description:"Сытный салат с нежным говяжьим языком.",sheet:"grill",cell:3},
-  {name:"Цезарь с курицей",category:"Салаты",price:345,weight:"250 г",description:"Курица, свежая зелень и фирменный соус.",sheet:"grill",cell:3},
   {name:"Ачик-Чучук",category:"Салаты",price:280,weight:"180 г",description:"Помидоры, лук и зелень — свежий акцент к шашлыку.",sheet:"grill",cell:3},
   {name:"Долма на мангале",category:"Салаты",price:250,weight:"200 г",description:"Блюдо на мангале по меню кафе.",sheet:"hot",cell:7},
   {name:"Шурпа",category:"Супы",price:300,weight:"400 г",description:"Наваристый суп с мясом и овощами.",sheet:"hot",cell:3},
